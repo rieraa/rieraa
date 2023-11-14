@@ -1,5 +1,7 @@
-## Hi there 👋
+# WELCOME 👋
 
+**🐶 My Blog**
+> [linwy.cn](linwy.cn)
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-560%20hrs%2025%20mins-blue)
 
