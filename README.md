@@ -2,6 +2,9 @@
 
 **🐶 My Blog**
 > [linwy.cn](linwy.cn)
+
+**🕊️ Weekly Report**
+> [weekly.tindra.cn](weekly.tindra.cn)
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-592%20hrs%2024%20mins-blue)
 
