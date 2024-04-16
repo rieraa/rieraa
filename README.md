@@ -6,6 +6,8 @@
 **🕊️ Weekly Report**
 > [weekly.tindra.cn](weekly.tindra.cn)
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-930%20hrs%2037%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -83,5 +85,5 @@ Astro                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/rieraa/rieraa/main/assets/bar_graph.png)
 
 
- Last Updated on 15/04/2024 03:10:12 UTC
+ Last Updated on 16/04/2024 00:42:33 UTC
 <!--END_SECTION:waka-->
