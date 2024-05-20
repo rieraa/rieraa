@@ -14,8 +14,6 @@
 
 > 📦 70.2 kB Used in GitHub's Storage 
  > 
-> 🏆 191 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 27 Public Repositories 
@@ -49,23 +47,16 @@ Sunday                   93 commits          ██████░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-Java                     10 mins             ██████████████░░░░░░░░░░░   57.27 % 
-Vue.js                   7 mins              ██████████░░░░░░░░░░░░░░░   38.56 % 
-JavaScript               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
-TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ                 10 mins             ██████████████░░░░░░░░░░░   57.29 % 
-WebStorm                 7 mins              ███████████░░░░░░░░░░░░░░   42.71 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-tindra-oj-frontend       7 mins              ███████████░░░░░░░░░░░░░░   42.71 % 
-tindra-backend           7 mins              ███████████░░░░░░░░░░░░░░   42.17 % 
-tindraoj-sandbox         2 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.12 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  18 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Java** 
@@ -85,5 +76,5 @@ Astro                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/rieraa/rieraa/main/assets/bar_graph.png)
 
 
- Last Updated on 19/05/2024 00:49:28 UTC
+ Last Updated on 20/05/2024 00:45:59 UTC
 <!--END_SECTION:waka-->
