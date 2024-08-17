@@ -6,7 +6,7 @@
 **🕊️ Weekly Report**
 > [weekly.tindra.cn](weekly.tindra.cn)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-995%20hrs%204%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-995%20hrs%2036%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -83,5 +83,5 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/rieraa/rieraa/main/assets/bar_graph.png)
 
 
- Last Updated on 16/08/2024 00:51:20 UTC
+ Last Updated on 17/08/2024 00:49:09 UTC
 <!--END_SECTION:waka-->
