@@ -14,8 +14,6 @@
 
 > 📦 44.7 kB Used in GitHub's Storage 
  > 
-> 🏆 126 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 15 Public Repositories 
@@ -83,5 +81,5 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/rieraa/rieraa/main/assets/bar_graph.png)
 
 
- Last Updated on 17/08/2024 00:49:09 UTC
+ Last Updated on 18/08/2024 00:54:37 UTC
 <!--END_SECTION:waka-->
