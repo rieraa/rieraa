@@ -6,7 +6,7 @@
 **🕊️ Weekly Report**
 > [weekly.tindra.cn](weekly.tindra.cn)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-995%20hrs%2038%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-996%20hrs%202%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -49,17 +49,17 @@ Sunday                   73 commits          ██████░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-TypeScript               1 hr                █████████████████████████   98.31 % 
-CSS                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
+TypeScript               59 mins             █████████████████████████   98.77 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
 
 🔥 Editors: 
-WebStorm                 1 hr 1 min          █████████████████████████   100.00 % 
+WebStorm                 1 hr                █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-mini-calendar            1 hr 1 min          █████████████████████████   100.00 % 
+mini-calendar            1 hr                █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      1 hr 1 min          █████████████████████████   100.00 % 
+Mac                      1 hr                █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -79,5 +79,5 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/rieraa/rieraa/main/assets/bar_graph.png)
 
 
- Last Updated on 20/08/2024 00:51:18 UTC
+ Last Updated on 21/08/2024 00:51:27 UTC
 <!--END_SECTION:waka-->
