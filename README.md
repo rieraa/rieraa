@@ -4,15 +4,13 @@
 > [linwy.cn](linwy.cn)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C019%20hrs%2028%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C019%20hrs%2042%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-22-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 44.5 kB Used in GitHub's Storage 
- > 
-> 🏆 125 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -84,5 +82,5 @@ HTML                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/rieraa/rieraa/main/assets/bar_graph.png)
 
 
- Last Updated on 13/09/2024 00:54:36 UTC
+ Last Updated on 14/09/2024 00:54:00 UTC
 <!--END_SECTION:waka-->
