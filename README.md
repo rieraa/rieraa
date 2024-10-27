@@ -47,16 +47,19 @@ Sunday                   73 commits          ██████░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               0 secs              █████████████████░░░░░░░░   68.24 % 
+Markdown                 0 secs              ████░░░░░░░░░░░░░░░░░░░░░   18.00 % 
+GitIgnore file           0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 % 
+TypeScript               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.95 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+WebStorm                 0 secs              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+rats                     0 secs              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      0 secs              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -76,5 +79,5 @@ Astro                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/rieraa/rieraa/main/assets/bar_graph.png)
 
 
- Last Updated on 26/10/2024 00:56:02 UTC
+ Last Updated on 27/10/2024 01:01:53 UTC
 <!--END_SECTION:waka-->
