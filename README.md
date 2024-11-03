@@ -12,6 +12,8 @@
 
 > 📦 45.0 kB Used in GitHub's Storage 
  > 
+> 🏆 129 Contributions in the Year 2024
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 17 Public Repositories 
@@ -45,10 +47,8 @@ Sunday                   73 commits          ██████░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-GitIgnore file           11 mins             ███████████████████████░░   90.93 % 
-JavaScript               1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   09.03 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
-TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+GitIgnore file           11 mins             ███████████████████████░░   91.09 % 
+JavaScript               1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   08.91 % 
 
 🔥 Editors: 
 WebStorm                 12 mins             █████████████████████████   100.00 % 
@@ -77,5 +77,5 @@ Astro                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/rieraa/rieraa/main/assets/bar_graph.png)
 
 
- Last Updated on 02/11/2024 00:56:43 UTC
+ Last Updated on 03/11/2024 01:01:34 UTC
 <!--END_SECTION:waka-->
