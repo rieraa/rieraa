@@ -4,8 +4,6 @@
 > [linwy.cn](linwy.cn)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C037%20hrs%2041%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -47,17 +45,16 @@ Sunday                   73 commits          ██████░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-GitIgnore file           11 mins             ███████████████████████░░   91.09 % 
-JavaScript               1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   08.91 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-WebStorm                 12 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-rats                     12 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      12 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Java** 
@@ -77,5 +74,5 @@ Astro                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/rieraa/rieraa/main/assets/bar_graph.png)
 
 
- Last Updated on 03/11/2024 01:01:34 UTC
+ Last Updated on 04/11/2024 00:59:13 UTC
 <!--END_SECTION:waka-->
