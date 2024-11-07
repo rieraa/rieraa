@@ -4,7 +4,7 @@
 > [linwy.cn](linwy.cn)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C037%20hrs%2041%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C037%20hrs%2056%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -47,17 +47,17 @@ Sunday                   73 commits          ██████░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-Bash                     11 mins             ███████████████████░░░░░░   77.01 % 
-Other                    3 mins              ██████░░░░░░░░░░░░░░░░░░░   22.99 % 
+Bash                     11 mins             █████████████░░░░░░░░░░░░   50.56 % 
+Other                    11 mins             ████████████░░░░░░░░░░░░░   49.44 % 
 
 🔥 Editors: 
-Cursor                   15 mins             █████████████████████████   100.00 % 
+Cursor                   23 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Unknown Project          15 mins             █████████████████████████   100.00 % 
+Unknown Project          23 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      15 mins             █████████████████████████   100.00 % 
+Mac                      23 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -77,5 +77,5 @@ Astro                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/rieraa/rieraa/main/assets/bar_graph.png)
 
 
- Last Updated on 06/11/2024 00:56:31 UTC
+ Last Updated on 07/11/2024 00:56:43 UTC
 <!--END_SECTION:waka-->
