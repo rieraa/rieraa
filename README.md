@@ -12,6 +12,8 @@
 
 > 📦 45.1 kB Used in GitHub's Storage 
  > 
+> 🏆 128 Contributions in the Year 2024
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 17 Public Repositories 
@@ -77,5 +79,5 @@ Astro                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/rieraa/rieraa/main/assets/bar_graph.png)
 
 
- Last Updated on 14/11/2024 00:57:00 UTC
+ Last Updated on 15/11/2024 01:00:53 UTC
 <!--END_SECTION:waka-->
