@@ -10,13 +10,13 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 45.1 kB Used in GitHub's Storage 
+> 📦 45.4 kB Used in GitHub's Storage 
  > 
-> 🏆 128 Contributions in the Year 2024
+> 🏆 129 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 17 Public Repositories 
+> 📜 18 Public Repositories 
  > 
 > 🔑 4 Private Repositories 
  > 
@@ -62,11 +62,11 @@ No Activity Tracked This Week
 **I Mostly Code in Java** 
 
 ```text
-Java                     6 repos             ████████░░░░░░░░░░░░░░░░░   31.58 % 
-JavaScript               4 repos             █████░░░░░░░░░░░░░░░░░░░░   21.05 % 
-TypeScript               3 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
-Objective-C              1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
-Astro                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+Java                     6 repos             ████████░░░░░░░░░░░░░░░░░   30.00 % 
+JavaScript               4 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+TypeScript               3 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
+Objective-C              2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+Astro                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
 ```
 
 
@@ -76,5 +76,5 @@ Astro                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/rieraa/rieraa/main/assets/bar_graph.png)
 
 
- Last Updated on 26/11/2024 01:00:53 UTC
+ Last Updated on 27/11/2024 01:01:44 UTC
 <!--END_SECTION:waka-->
