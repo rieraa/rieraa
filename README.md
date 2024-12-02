@@ -4,6 +4,8 @@
 > [linwy.cn](linwy.cn)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C039%20hrs%2047%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
@@ -74,5 +76,5 @@ Astro                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/rieraa/rieraa/main/assets/bar_graph.png)
 
 
- Last Updated on 01/12/2024 01:11:52 UTC
+ Last Updated on 02/12/2024 01:03:50 UTC
 <!--END_SECTION:waka-->
