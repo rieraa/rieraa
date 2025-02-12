@@ -47,16 +47,20 @@ Sunday                   73 commits          ██████░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JSON                     6 mins              ██████████████░░░░░░░░░░░   54.40 % 
+TSConfig                 3 mins              ███████░░░░░░░░░░░░░░░░░░   29.88 % 
+CocoaPods                1 min               ████░░░░░░░░░░░░░░░░░░░░░   15.66 % 
+Objective-C              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Cursor                   12 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+cli-progress             10 mins             █████████████████████░░░░   84.29 % 
+CTMediator               1 min               ████░░░░░░░░░░░░░░░░░░░░░   15.71 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      12 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -76,5 +80,5 @@ Astro                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/rieraa/rieraa/main/assets/bar_graph.png)
 
 
- Last Updated on 11/02/2025 00:57:17 UTC
+ Last Updated on 12/02/2025 00:57:36 UTC
 <!--END_SECTION:waka-->
