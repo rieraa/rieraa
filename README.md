@@ -4,13 +4,13 @@
 > [linwy.cn](linwy.cn)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C043%20hrs%2019%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 45.5 kB Used in GitHub's Storage 
- > 
-> 🏆 1 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -45,16 +45,19 @@ Sunday                   73 commits          ██████░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JSON                     3 mins              ███████████████░░░░░░░░░░   60.83 % 
+Other                    2 mins              ██████████░░░░░░░░░░░░░░░   38.33 % 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  5 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+uuuu                     3 mins              ███████████████░░░░░░░░░░   61.67 % 
+Unknown Project          2 mins              ██████████░░░░░░░░░░░░░░░   38.33 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      5 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -74,5 +77,5 @@ Astro                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/rieraa/rieraa/main/assets/bar_graph.png)
 
 
- Last Updated on 02/07/2025 01:09:30 UTC
+ Last Updated on 03/07/2025 01:09:18 UTC
 <!--END_SECTION:waka-->
