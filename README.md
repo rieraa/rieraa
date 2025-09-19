@@ -20,6 +20,45 @@
  > 
 > 🔑 4 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                23 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 % 
+🌆 Daytime                85 commits          ███████░░░░░░░░░░░░░░░░░░   29.82 % 
+🌃 Evening                122 commits         ███████████░░░░░░░░░░░░░░   42.81 % 
+🌙 Night                  55 commits          █████░░░░░░░░░░░░░░░░░░░░   19.30 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   29 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.18 % 
+Tuesday                  63 commits          ██████░░░░░░░░░░░░░░░░░░░   22.11 % 
+Wednesday                37 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.98 % 
+Thursday                 18 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.32 % 
+Friday                   21 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 % 
+Saturday                 44 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.44 % 
+Sunday                   73 commits          ██████░░░░░░░░░░░░░░░░░░░   25.61 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kuala_Lumpur
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Java** 
 
 ```text
@@ -37,5 +76,5 @@ Astro                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/rieraa/rieraa/main/assets/bar_graph.png)
 
 
- Last Updated on 18/09/2025 01:00:33 UTC
+ Last Updated on 19/09/2025 01:02:49 UTC
 <!--END_SECTION:waka-->
