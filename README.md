@@ -65,11 +65,11 @@ No Activity Tracked This Week
 No AI Coding Activity Tracked This Week
 ```
 
-**I Mostly Code in Java** 
+**I Mostly Code in JavaScript** 
 
 ```text
+JavaScript               6 repos             ████████░░░░░░░░░░░░░░░░░   30.00 % 
 Java                     6 repos             ████████░░░░░░░░░░░░░░░░░   30.00 % 
-JavaScript               5 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
 TypeScript               3 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
 Vue                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
 Objective-C              1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
@@ -82,5 +82,5 @@ Objective-C              1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/rieraa/rieraa/main/assets/bar_graph.png)
 
 
- Last Updated on 02/10/2026 03:31:32 UTC
+ Last Updated on 03/10/2026 03:15:27 UTC
 <!--END_SECTION:waka-->
